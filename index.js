@@ -1,8 +1,8 @@
-function sumar(a,b){
+function restar(a,b){
     return a+b;
 }
 
-console.log("Resultado: ",sumar(10,5));
+console.log("Resultado: ",restar(10,5));
 
 
 
