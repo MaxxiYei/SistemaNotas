@@ -3,10 +3,3 @@ function restar(a,b){
 }
 
 console.log("Resultado: ",restar(10,5));
-
-
-
-
-
-
-
